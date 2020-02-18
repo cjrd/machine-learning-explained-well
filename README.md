@@ -11,6 +11,8 @@ Aurélien Géron](https://www.youtube.com/watch?v=pPN8d0E3900)
     * [Overview & general feel (start here)](https://medium.com/ml2vec/overview-of-conditional-random-fields-68a2a20fa541)
 * Network Dissection
     * [7.1.2 Network Dissection](https://christophm.github.io/interpretable-ml-book/cnn-features.html#feature-visualization)
+* Normalizing Flows
+    * [Sculpting Distributions with Normalizing Flows](https://www.ritchievink.com/blog/2019/10/11/sculpting-distributions-with-normalizing-flows/)
 * R-CNN & Common Variants
     * [tutorial](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * Resnet
