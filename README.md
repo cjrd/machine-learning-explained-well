@@ -9,6 +9,8 @@ Aurélien Géron](https://www.youtube.com/watch?v=pPN8d0E3900)
     * [Tutorial sequence from Max Pechyonkin](https://pechyonkin.me/capsules-1/)
 * Conditional Random Fields 
     * [Overview & general feel (start here)](https://medium.com/ml2vec/overview-of-conditional-random-fields-68a2a20fa541)
+* GANs
+    * [WGAN and WGAN-GP tutorial](https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490)
 * Network Dissection
     * [7.1.2 Network Dissection](https://christophm.github.io/interpretable-ml-book/cnn-features.html#feature-visualization)
 * Normalizing Flows
@@ -17,4 +19,5 @@ Aurélien Géron](https://www.youtube.com/watch?v=pPN8d0E3900)
     * [tutorial](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * Resnet
     * [tutorial](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+    
     
